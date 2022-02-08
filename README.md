@@ -1,2 +1,2 @@
 # CloneNetflix
-Para o desenvolvimento deste projeto foram utilizadas: HTML,CSS,JS e uma API.
+Para a elaboração deste clone inspirado no Netflix utilizei as linguagens: JavaScript, HTML e CSS, além de uma API do site TMDB.com
